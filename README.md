@@ -1,9 +1,12 @@
-# DsList 
+# Projeto DsList 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/wescaetano/dslist/blob/main/LICENSE) 
 ### Sobre o projeto:
  DsList é basicamente uma lista de jogos feita durante a semana do intensivão Java spring ministrada pelo Prof. Nelio Alves contendo informações dos jogos como: nome, avaliação, data de lançamento, categoria, resumo curto e longo.
  Nessa lista contendo vários jogos o usuário terá a opção de clicar em um jogo da lista para que assim informações mais completas desse jogo sejam mostradas.
  Uma funcionalidade interessante é que o usuário poderá clicar em um jogo que por exemplo esteja na primeira posição da lista e arrastalo para qualquer outra posição da mesma.
+
+### Modelo Estrutural:
+![Modelo Estrutural](https://github.com/wescaetano/dslist/blob/main/src/main/java/com/devsuperior/dslist/assets/dslist-model.png)
 
 ### Backend:
 - Java
