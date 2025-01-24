@@ -33,7 +33,7 @@
 }
 ```
 
-2 - GET: /lists - Retorna todos as listas por categoria
+2 - GET: /lists - Retorna todas as listas por categoria
 ``` bash
 {
         "id": 1,
