@@ -50,13 +50,40 @@
 
 3 - GET: /lists/2/games - Retorna todos os jogos no caso da lista '2'
 ``` bash
-{
-        "id": 1,
-        "name": "Aventura e RPG"
+ {
+        "id": 6,
+        "title": "Super Mario World",
+        "year": 1990,
+        "imgUrl": "https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/6.png",
+        "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit esse officiis corrupti unde repellat non quibusdam! Id nihil itaque ipsum!"
     },
     {
-        "id": 2,
-        "name": "Jogos de plataforma"
+        "id": 7,
+        "title": "Hollow Knight",
+        "year": 2017,
+        "imgUrl": "https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/7.png",
+        "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit esse officiis corrupti unde repellat non quibusdam! Id nihil itaque ipsum!"
+    },
+    {
+        "id": 8,
+        "title": "Ori and the Blind Forest",
+        "year": 2015,
+        "imgUrl": "https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/8.png",
+        "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit esse officiis corrupti unde repellat non quibusdam! Id nihil itaque ipsum!"
+    },
+    {
+        "id": 9,
+        "title": "Cuphead",
+        "year": 2017,
+        "imgUrl": "https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/9.png",
+        "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit esse officiis corrupti unde repellat non quibusdam! Id nihil itaque ipsum!"
+    },
+    {
+        "id": 10,
+        "title": "Sonic CD",
+        "year": 1993,
+        "imgUrl": "https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/10.png",
+        "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit esse officiis corrupti unde repellat non quibusdam! Id nihil itaque ipsum!"
     }
 ```
 
